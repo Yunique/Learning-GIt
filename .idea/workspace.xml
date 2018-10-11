@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bbfea7c-4b7c-4344-b486-cea89aa4bd11" name="Default Changelist" comment="" />
+    <list default="true" id="6bbfea7c-4b7c-4344-b486-cea89aa4bd11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,53 +14,62 @@
     <session id="-1814356840">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="gitignore" value="1" />
-          <entry key="htm" value="2" />
-          <entry key="html" value="7" />
+          <entry key="gitignore" value="3" />
+          <entry key="gitignore_BACKUP_14573" value="1" />
+          <entry key="gitignore_BACKUP_14792" value="1" />
+          <entry key="gitignore_BASE_14573" value="1" />
+          <entry key="gitignore_BASE_14792" value="1" />
+          <entry key="gitignore_LOCAL_14573" value="1" />
+          <entry key="gitignore_LOCAL_14792" value="1" />
+          <entry key="gitignore_REMOTE_14573" value="1" />
+          <entry key="gitignore_REMOTE_14792" value="1" />
+          <entry key="htm" value="3" />
+          <entry key="html" value="9" />
           <entry key="md" value="14" />
-          <entry key="rb" value="6" />
-          <entry key="re" value="1" />
+          <entry key="rb" value="7" />
+          <entry key="re" value="2" />
           <entry key="rr" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="13" />
           <entry key="Markdown" value="14" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Ruby" value="6" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Ruby" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="HTML" value="9" />
-          <entry key="gitignore" value="7" />
+          <entry key="gitignore" value="21" />
           <entry key="htm" value="8" />
-          <entry key="html" value="54" />
-          <entry key="md" value="56" />
-          <entry key="rb" value="4" />
-          <entry key="re" value="75" />
+          <entry key="html" value="105" />
+          <entry key="md" value="75" />
+          <entry key="rb" value="15" />
+          <entry key="re" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="71" />
-          <entry key="Markdown" value="56" />
-          <entry key="PLAIN_TEXT" value="82" />
-          <entry key="Ruby" value="4" />
+          <entry key="HTML" value="122" />
+          <entry key="Markdown" value="75" />
+          <entry key="PLAIN_TEXT" value="105" />
+          <entry key="Ruby" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -70,34 +81,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="13" selection-start-column="13" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/some.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/second.html" />
         <option value="$PROJECT_DIR$/CONTRIBUTING.md" />
@@ -121,10 +104,11 @@
         <option value="$PROJECT_DIR$/lajdsslk.htm" />
         <option value="$PROJECT_DIR$/HU.HTML" />
         <option value="$PROJECT_DIR$/111.htm" />
-        <option value="$PROJECT_DIR$/aasda.re" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/aasda.re" />
         <option value="$PROJECT_DIR$/test.rb" />
         <option value="$PROJECT_DIR$/some.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -134,10 +118,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="961" />
-    <option name="width" value="939" />
-    <option name="height" value="1051" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="772" />
+    <option name="y" value="4" />
+    <option name="width" value="929" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -145,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,11 +141,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/back up/16.09 CT16 finished/cohort-admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -193,17 +178,18 @@
       <workItem from="1537523038845" duration="496000" />
       <workItem from="1537526321745" duration="3343000" />
       <workItem from="1537765250809" duration="6000" />
-      <workItem from="1537884786768" duration="3399000" />
+      <workItem from="1537884786768" duration="5645000" />
+      <workItem from="1537967985171" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19828000" />
+    <option name="totallyTimeSpent" value="22686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <frame x="772" y="85" width="929" height="1049" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13127" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -216,8 +202,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49945235" visible="true" weight="0.5480043" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50054765" side_tool="true" weight="0.5475162" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49893278" visible="true" weight="0.5503792" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010672" side_tool="true" weight="0.5480043" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -267,6 +253,16 @@
     <entry file="file://$PROJECT_DIR$/HU.HTML" />
     <entry file="file://$PROJECT_DIR$/lajdsslk.htm" />
     <entry file="file://$PROJECT_DIR$/dfs.rr" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="17" selection-start-column="17" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/111.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -274,13 +270,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore_BACKUP_14573" />
+    <entry file="file://$PROJECT_DIR$/.gitignore_REMOTE_14573" />
+    <entry file="file://$PROJECT_DIR$/.gitignore_LOCAL_14573" />
+    <entry file="file://$PROJECT_DIR$/.gitignore_BASE_14573" />
     <entry file="file://$PROJECT_DIR$/aasda.re">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -288,23 +288,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="13" selection-start-column="13" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.gitignore_BASE_14792" />
+    <entry file="file://$PROJECT_DIR$/.gitignore_BACKUP_14792" />
+    <entry file="file://$PROJECT_DIR$/.gitignore_LOCAL_14792" />
+    <entry file="file://$PROJECT_DIR$/.gitignore_REMOTE_14792" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/some.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="138">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
